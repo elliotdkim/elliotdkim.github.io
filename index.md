@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/elliotdkim/elliotdkim.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is **Elliot Kim** and I am currently studying Computer Science at [UCSD](https://ucsd.edu/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Some quick facts:
 
-### Markdown
+- I enjoy playing the piano
+- I like to write and draw
+- My favorite basketball team is the Toronto Raptors
+- A quote I like:
+  > “It is hard enough to remember my opinions, without also remembering my reasons for them!” - Nietzsche
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Some people I like:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Franz Liszt**
 
-- Bulleted
-- List
+![Franz Liszt](https://medicitv-b.imgix.net/artist/franz-liszt.jpg?auto=format&q=85)
 
-1. Numbered
-2. List
+**Kyle Lowry**
 
-**Bold** and _Italic_ and `Code` text
+![Kyle Lowry](https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3012.png&w=350&h=254)
 
-[Link](url) and ![Image](src)
+## Miscellaneous
+
+**VSCode settings that make me happy:**
+```
+"editor.cursorBlinking": "phase",
+"editor.cursorStyle": "block",
+"editor.cursorSmoothCaretAnimation": true, 
+"editor.minimap.enabled": false,
+"zenMode.hideLineNumbers": false,
+"zenMode.centerLayout": true,
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Some Goals I have for myself**
+- [x] Make a GitHub page :)
+- [ ] Run a marathon
+- [ ] Write a book
+- [ ] Learn Chopin's Ballade no. 1
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliotdkim/elliotdkim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[README for my Github page](elliotdkim.github.io/README.md)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
